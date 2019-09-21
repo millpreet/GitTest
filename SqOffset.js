@@ -15,7 +15,7 @@ const drawSquare = function (squareOffset, Length) {
     for (var i = 1; i<= Length; i++) {
         line = "\n" + offset;
         for (var j = 1; j <= Length; j++) {
-            line += "#";
+            line += "&";
 
         }
         square += line;
