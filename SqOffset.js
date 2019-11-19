@@ -7,7 +7,7 @@ const drawSquare = function (squareOffset, Length) {
 
             space += " ";
         }
-
+//hello world
         return space;
     };
     let square = "";
